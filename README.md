@@ -1,6 +1,6 @@
 # Is Educational Inequality a Stronger Predictor of National Happiness Than Income Inequality?
 
-**Authors:** Mobin Seyedmohammadi · Arta Asadi Haghi  
+**Author:** Mobin Seyedmohammadi
 **Institution:** Sapienza University of Rome — Data Management and Analysis
 
 ---
@@ -223,7 +223,7 @@ The standard policy narrative focuses on income redistribution — reduce the Gi
 
 ```bibtex
 @misc{seyedmohammadi2025inequality,
-  author    = {Seyedmohammadi, Mobin and Asadi Haghi, Arta},
+  author    = {Seyedmohammadi, Mobin},
   title     = {Is Educational Inequality a Stronger Predictor of 
                National Happiness Than Income Inequality?},
   year      = {2025},
